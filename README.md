@@ -96,4 +96,4 @@ Con ganas de aprender, aportar valor y crecer dentro de un equipo de desarrollo.
 
 ## 📫 Contacto
 - GitHub: https://github.com/DavidMonteroBlanco
-- LinkedIn: *(añade tu perfil cuando lo tengas)*
+- LinkedIn: 
