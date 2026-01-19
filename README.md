@@ -1,67 +1,99 @@
-# Hola, soy David Montero 👋
-Desarrollador en formación | Backend & Full Stack Junior | Practicante en desarrollo de software
+<h1 align="center">Hola 👋, soy David Montero Blanco</h1>
+<h3 align="center">Desarrollador Backend / Full Stack Junior</h3>
 
-Actualmente soy estudiante y busco **prácticas profesionales en desarrollo de software** con enfoque en:
-- Backend (PHP, Laravel)
-- APIs REST seguras
-- Desarrollo web completo
-- Bases de datos (MySQL)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidMonteroBlanco&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧠 Sobre mí
-Soy una persona enfocada en aprender y construir soluciones reales basadas en software.  
-Disfruto enfrentar problemas prácticos, aprender tecnologías modernas y aplicar buenas prácticas en proyectos reales.
+## 🧑‍💻 Sobre mí
+Soy desarrollador en formación con enfoque en **backend y desarrollo web**, actualmente buscando **prácticas profesionales** en empresa.  
+Trabajo con tecnologías reales, orientado a APIs REST, bases de datos y autenticación segura.
+
+Me interesa aprender buenas prácticas, arquitectura limpia y trabajar en proyectos con impacto real.
 
 ---
 
-## 🛠 Stack & Herramientas
-Estas son las tecnologías con las que trabajo regularmente:
+## 🛠️ Tecnologías y herramientas
 
-**Lenguajes**
-- PHP
-- Java
-- HTML, CSS, JavaScript
+### 🔹 Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth_Tokens-Sanctum-success?style=for-the-badge"/>
+</p>
 
-**Frameworks / Backend**
-- Laravel (APIs REST, autenticación con tokens)
-- Bootstrap (frontend básico)
+### 🔹 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Bases de datos**
-- MySQL
-- MongoDb
-- MariaDB
+### 🔹 Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-**Herramientas**
-- Git & GitHub
-- Composer
-- XAMPP
+### 🔹 Base de datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🔹 Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
 
 ---
 
-## 💻 Proyectos destacados
+## 🚀 Proyecto destacado
 
 ### 🏋️‍♂️ Sistema de gestión para gimnasio
-**Descripción:** API REST y backend para la gestión de usuarios y seguimiento de entrenamiento en gimnasio con autenticación segura por tokens.  
-**Tecnologías:** Laravel, PHP, MySQL, API REST, autenticación con Laravel Sanctum.  
-📍 **Repositorio:** **  
-🚀 **Demo local:** puedes probar la API o integrarla con un frontend.
+Backend y API REST para la gestión de un gimnasio con:
+- Usuarios con roles (admin / cliente)
+- Seguimiento de peso y métricas
+- Autenticación segura con tokens
+- Preparado para frontend web o app móvil
+
+**Tecnologías:** Laravel · PHP · MySQL · API REST · Sanctum  
+📌 Repositorio: *(añadir enlace cuando lo publiques)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-![David’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMonteroBlanco&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMonteroBlanco&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMonteroBlanco&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMonteroBlanco&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
 
 ---
 
-## 📫 Estoy buscando
-Prácticas profesionales en:
-- Desarrollo Backend
-- Desarrollo Full Stack
-- Integración de APIs
-- Software con PHP y Laravel
+## 🎯 Objetivo profesional
+Busco **prácticas profesionales** como:
+- Desarrollador Backend
+- Desarrollador Full Stack Junior
+- Programador PHP / Laravel
 
-Si quieres hablar sobre una oportunidad o colaboración, ¡conversemos!
+Con ganas de aprender, aportar valor y crecer dentro de un equipo de desarrollo.
 
 ---
+
+## 📫 Contacto
+- GitHub: https://github.com/DavidMonteroBlanco
+- LinkedIn: *(añade tu perfil cuando lo tengas)*
